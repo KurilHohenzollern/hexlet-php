@@ -1,0 +1,10 @@
+{
+    "name": "kuril/hexlet-hello-world",
+    "authors": [
+        {
+            "name": "KurilHohenzollern",
+            "email": "pojarius@yandex.ru"
+        }
+    ],
+    "require": {}
+}
